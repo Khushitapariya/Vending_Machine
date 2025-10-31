@@ -5,7 +5,7 @@ The machine supports **multiple products, coin-based payment, online payment, an
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Supports **5 products**:
   - Pen (₹15)
