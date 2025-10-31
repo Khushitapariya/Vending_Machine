@@ -24,7 +24,7 @@ The machine supports **multiple products, coin-based payment, online payment, an
 
 ---
 
-## 🧠 Finite State Machine (FSM) States
+##  Finite State Machine (FSM) States
 
 | State Code | State Name | Description |
 |-----------|------------|-------------|
